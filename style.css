@@ -27,7 +27,7 @@ body {
    height: 80%;
    animation: none;
 }
-
+ 
 #spooky:hover {
     animation: floaty .2s infinite;
 }
